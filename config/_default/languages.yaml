@@ -10,34 +10,34 @@ en:
 
 # Uncomment the lines below to configure your website in a second language.
 zh:
-  languageCode: zh-Hans
+  languageCode: zh
   contentDir: content/zh
   title: Chinese website title...
   params:
     description: Site description in Chinese...
   menu:
     main:
-  - name: Research
+  - name: 科学研究
     url: research
     weight: 10
-  - name: Publications
+  - name: 发表论文
     url: publication
     weight: 20
-  - name: Talks
+  - name: 学术报告
     url: talk
     weight: 30
-  - name: People
+  - name: 课题成员
     url: people
     weight: 40
-  - name: Teaching
+  - name: 教学课程
     url: teaching
     weight: 50
-  - name: News
+  - name: 学术新闻
     url: new
     weight: 60
-  - name: Link
+  - name: 常用链接
     url: link
     weight: 70    
-  - name: Contact
+  - name: 联系方式
     url: contact
     weight: 80
