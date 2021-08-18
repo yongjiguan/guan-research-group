@@ -12,7 +12,7 @@ font_size: L
 
 # SEO
 
-site_type: Organization
+site_type: Academic
 local_business_type: ''
 org_name: ''
 description: My research group description.
@@ -20,8 +20,8 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: guanyj16@lzu.edu.cn
+phone: +86-188****3920
 address:
   street: 450 Serra Mall
   city: Stanford
