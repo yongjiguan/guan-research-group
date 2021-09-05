@@ -49,10 +49,10 @@ main_menu:
   enable: true
   align: r
   show_logo: true
-  show_language: false
+  show_language: true #false
   show_day_night: true
   show_search: true
-  highlight_active_link: false
+  highlight_active_link: true #false
 
 # Localization
 
