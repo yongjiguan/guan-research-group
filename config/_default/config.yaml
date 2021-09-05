@@ -11,7 +11,7 @@ copyright: 'Copyright © 2020 Yongji Guan All Rights Reserved.' # Footer text, e
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: zh-Hans #en
+defaultContentLanguage: en #zh
 hasCJKLanguage: true #false
 defaultContentLanguageInSubdir: false
 removePathAccents: true

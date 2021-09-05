@@ -17,27 +17,27 @@ zh:
     description: Site description in Chinese...
   menu:
     main:
-      - name: 科学研究
-        url: '#research'
-        weight: 10
-      - name: 发表论文
-        url: '#publication'
-        weight: 20
-      - name: 学术报告
-        url: '#talk'
-        weight: 30
-      - name: 课题成员
-        url: '#people'
-        weight: 40
-      - name: 教学课程
-        url: '#teaching'
-        weight: 50
-      - name: 学术新闻
-        url: '#new'
-        weight: 60
-      - name: 常用链接
-        url: '#link'
-        weight: 70    
-      - name: 联系方式
-        url: '#contact'
-        weight: 80
+  - name: 科学研究
+    url: research
+    weight: 10
+  - name: 发表论文
+    url: publication
+    weight: 20
+  - name: 学术报告
+    url: talk
+    weight: 30
+  - name: 课题成员
+    url: people
+    weight: 40
+  - name: 教学课程
+    url: teaching
+    weight: 50
+  - name: 学术新闻
+    url: new
+    weight: 60
+  - name: 常用链接
+    url: link
+    weight: 70    
+  - name: 联系方式
+    url: contact
+    weight: 80
