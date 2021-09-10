@@ -5,7 +5,12 @@
 
 main:
   - name: Research
-    url: research
+    url: # 
+    weight: 10
+    hasChildren: true
+  - parent: Research
+    name: Talks
+    url: talk
     weight: 10
   - name: Publications
     url: publication
